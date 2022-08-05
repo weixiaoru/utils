@@ -1,6 +1,6 @@
 {
   "name": "chinapopin-utils",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "工具库",
   "author": "weixiaoru<514753680@qq.com>",
   "main": "./src/index.ts",
